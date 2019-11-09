@@ -1,0 +1,165 @@
+.wed-logo{position: absolute;top: -10px;}
+.wed-menu{float:left;}
+.wed-menuulli{float:right;}
+.web-search-formlabel{top:16px;left:18px;}
+.wed-search:before{left:0px;right:0px;}
+.web-hom-grid:before{bottom:0px;left:0px;}
+.wed-hom-tesulliimg{float:right;}
+.wed-hom-happy:before{left:0px;right:0px;}
+.wed-foot-linkulli{float:right;}
+.wed-foot-link-1ulli{float:right;}
+.sprite-call{float:right;}
+.man-drop:before{top:-12px;left:48%;}
+.mob-close{right:15px;}
+.cen-filterulli{float:right;}
+.wed-filt-navulli{float:right;}
+.ed-com-t1-leftulli{float:right;}
+.ed-com-t1-right{float:left;}
+.ed-com-t1-rightulli{float:right;}
+.main-menu{float:left;}
+.main-menuul{float:left;}
+.main-menuulli{float:right;}
+.main-menuullia:after{left:0;}
+.ed-sub-drop-menu:after{float:right;}
+.slider:after{bottom:0px;top:0px;left:0px;right:0px;}
+.hom-p1-img{float:right;}
+.hom-p1-con{float:right;}
+.pop-co::before{left:0px;}
+.home-top-cour-rat{right:15px;}
+.hom-list-shareulli{float:right;}
+.ho-ex-titleh4:before{left:15px;}
+.ho-ev-img{float:right;}
+.ho-ev-date{float:right;}
+.ho-ev-link{float:right;}
+.ho-ev-latest:before{top:0;left:0;right:0;bottom:0;}
+.ho-st-loginformlabel{left:20px!important;top:15px;}
+.hom-enqlabel{left:15px;}
+.ed-com-t1-social{float:left;}
+.ed-com-t1-socialulli{float:right;}
+.sf-type{float:right;}
+.sf-submit{float:right;}
+.top-revi{float:right;}
+.top-reviimg{float:right;}
+.top-revih4{float:right;}
+.top-revip{float:right;}
+.top-star-rat{float:right;}
+.wed-hom-serulli{float:right;}
+.course-overlayspan{top:50%;left:0;right:0;}
+.cor-p2ulli{float:right;}
+.cor-p6-revi-left{float:right;}
+.cor-p6-revi-right{float:right;}
+.cor-p7-revilabel{left:20px!important;top:12px;}
+.h-galulli{float:right;}
+.h-blogulliaimg{float:right;}
+.log-in-pop-left{float:right;}
+.log-in-pop-right{float:right;}
+.log-in-pop-rightformlabel{left:15px;top:14px;}
+.pop-close{top:15px;right:15px;}
+.log-ch-bxplabel{left:1px;top:10px;}
+.in2-ban:before{left:0px;}
+.in2-bi-formlabel{left:20px;}
+.sdb-coursulli{float:right;}
+.list-mig-like-com:before{left:0px;}
+.l-info-pack-plac::after{left:19px;}
+.sdb-cl-day{float:right;}
+.sdb-cl-class{float:right;}
+.sdb-cl-class-tim{float:right;}
+.sdb-cl-class-name{float:right;}
+.sdb-cl-class-nameh5span{float:left;}
+.sdb-cl-class-name::after{top:3px;left:9px;}
+.mm-pos{right:0px;left:0px;}
+.mm1-com{float:right;}
+.m-menu-innulli:before{top:5px;left:0;}
+.icon-float{top:35%;left:0px;right: auto}
+.ed-advanulli{float:right;}
+.ed-ad-dec{float:right;}
+.s18-age-event::after{left:28px;}
+.ed-eve-time-tim{float:right;}
+.ed-eve-time-msg{float:right;}
+.age-dwarr-btn{right:0px;}
+.h-quote:before{left:0px;}
+.help-arrow{left:95.5%;}
+.content-leftspan{float:left;}
+.p-semi:before{left:0px;}
+.semi-com{float:left;}
+.semi-detaulli{float:right;}
+.pg-eve-reg{float:left;}
+.head-2:before{left:0px;}
+.event-head-subulli{float:right;}
+.map-headp:after{left:50%;}
+.ed-mm-left{float:right;}
+.ed-mm-right{float:left;}
+.ed-micon{float:left;}
+.ed-mm-inn{right:-80%;}
+.ed-mm-act{right:0%;}
+.sb1-2{float:left;}
+.sb2-1{float:right;}
+.sb2-12ulli{float:right;}
+.sb2-13ullia:after{right:20px;}
+.sb2-2{float:right;margin-right: 20%;margin-left: auto;}
+.blog-socul{float:left;}
+.blog-soculli{float:right;}
+.sb2-2-2ulli{float:right;}
+.db-1ulli{float:right;}
+.db-icon-le{float:right;}
+.db-icon-ri{float:right;}
+.db-2ulli{float:right;}
+.drop-down-meta{right:30px;top:15px;}
+.app-searchinput{border-bottom:0px!important;height:35px!important;}
+.app-searcha{top:8px;right:16px;}
+.list-act-hom-con::after{left:19px;}
+.top-user-pro{float:left;}
+.btn-close-menu{left:240px;}
+.page-back{float:right!important;}
+.coll-headi{float:right;margin-right:1rem;}
+.admin-formformlabel{left:20px;}
+.h2-hero:before{left:0px;}
+.ed-ban-tit{float:right;}
+.ed-ban-tit-2h4{float:right;}
+.ed-ban-tit-2h4span{left:125px;}
+.ed-ban-tit-31{float:right;}
+.ed-ban-cal-le{float:right;}
+.ed-ban-cal-ri{float:right;}
+.ed-ban-tit-32{float:right;}
+.ed-ref-form{float:right;}
+.ed-ref-form-innformulliinput:focus~.floating-label, input:not(:focus):valid~.floating-label{top:-5px;bottom:10px;left:40px;}
+.floating-label{left:40px;top:7px;}
+.ed-high-beneulli{float:right;}
+.ed-rsear-inulli{float:right;}
+.ed-rsear-img{float:right;}
+.ed-rsear-dec{float:right;}
+.ed-flag{right:20px;top:20px;}
+.s17-eve-time-tim{float:right;}
+.s17-eve-time-msg{float:right;}
+.ed-pho-galulli{float:left;}
+.ed-com-t1-left{float: right;}
+.ed-com-t1-right{float: left;}
+.ed-ban-tit-3-com *{text-align: center}
+.ed-ban-cal-ri{padding: 4px;}
+.main-menu ul{float: left;}
+.admin-form form label {right: 20px;left: auto;}
+.log-in-pop-right form label {right: 15px;}
+.cor-p7-revi label {right: 20px !important;}
+.cor-con-mid div.cor-p6-revi-right{padding: 0 6px 0 0;}
+.pos-r {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin-left: 0px !important;
+    border-radius: 0;
+    padding: 0  !important;
+    width:100px;
+    height:auto;
+    background-color: var(--secColor);
+}
+.carousel-inner .item .text-center img{
+    height: 300px;
+    width:  auto;
+}
+
+@media only screen and (max-width: 1200px) {
+    .main-menu ul li a{
+        font-size: 11px;
+    }
+}
+/*.ed-mm-inn{float: left;right: -80%;}*/

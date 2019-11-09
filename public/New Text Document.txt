@@ -1,0 +1,11 @@
+maintenancegy.com   SPECIAL15
+		start serve 
+
+php artisan serve
+
+
+AvWgl1gVJz31
+
+u219476890
+
+B8gQtpEXbkTV

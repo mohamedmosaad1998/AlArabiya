@@ -1,0 +1,128 @@
+*{
+    direction: rtl;
+    text-align: right;
+}
+html {
+    font-family:"Droid Arabic Kufi", "Droid Sans", sans-serif;
+}
+
+/*html, body{overflow-x:hidden ;}*/
+
+.ho-st-login form label {
+    right: 20px !important;
+}
+.home-top-cour-rat {
+    left: 15px;
+    right: auto;
+}
+.hom-list-share ul li a i {
+    padding-right: auto;
+    padding-left:5px ;
+}
+.ho-st-login form input[type="submit"] {
+    text-align: center;
+}
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: right !important;
+}
+.ho-ev-link {
+    padding: 0 7px;
+}
+.ho-ev-date {
+    margin-left: 10px;
+    margin-right: auto;
+}
+.ho-ev-date span{
+    text-align: center;
+}
+.wed-foot-link div {
+    border-right: 0px groove #6a83a0;
+}
+.light-btn, .sf-submit input{
+    background: var(--secColor);
+    border-color: var(--secColor);
+}
+.m-menu-inn ul li::before {
+    content: "\f104" !important;
+    right: -15px;
+    left: auto;
+    color: var(--secColor);
+}
+.bann-btn-1{
+    background: var(--secColor);
+    border-color: var(--secColor);
+
+}
+.ed-mm-inn ul li a::before{
+    content: "\f104";
+    margin-right: -25px;
+    left: auto;
+    right: auto;
+}
+.cor-con-mid p,.ed-mm-inn ul li:hover a, li, .ed-mm-inn ul li:hover a::before {
+     color: var(--secColor);
+}
+.ed-micon i {
+    border-color:var(--secColor);
+    color:var(--secColor);
+}
+.sf-input input {
+    width: 100%;
+    border-right: 5px solid #fff;
+    background: url(../images/search.png) no-repeat right center #fff;
+    background-position-x:right;
+    background-size: 16px;
+    color: #777;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+.con-title *{text-align: center !important;}
+.ed-mi-close i {
+    border-color:var(--secColor);
+    color: var(--secColor);
+}
+.sb2-13 ul li a i {
+    margin-left: 8px;
+    margin-right: auto;
+    width: 16px;
+    float: right;
+}
+.sb2-13 ul li a::after {
+    content: "\f104";
+    right: auto;
+    left: 20px;
+}
+.carousel-caption, .carousel-caption *{
+    text-align: center;
+}
+.hom-list-share ul li:nth-child(1) a {
+    background: var(--secColor);
+    border-color:var(--secColor) ;
+}
+
+.sb2-13 ul li{
+    margin: 0 -40px 0 0;
+}
+@media screen and (max-width: 992px){
+    .search-top {
+        margin-top: 100px;
+    }
+}
+.col-md-12, .col-sm-12{width: 100%;}
+.sf-submit{width:30%;}
+.sf-type{
+    width:70%;
+}
+.sf-submit input[type='submit']{border-radius: 50px;}
+.wed-foot-link-1 ul li{
+    float: none;
+    display: inline-block;
+}
+.shadow{
+    box-shadow: 0px 2px #333;
+    text-shadow: 0 2px #333;
+}
+.wed-logo a img{
+    width: 350px !important;
+    height: 90px !important;
+}
