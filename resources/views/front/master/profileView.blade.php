@@ -28,7 +28,7 @@
                                 <h4>{{trans('lang.username')}}</h4><p>{{$user->name}}</p>
                             </li>
                             <li>
-                                <h4>{{trans('lang.bdate')}}</h4><p>{{date_format($user->bdate,'Y-m-d')}}</p>
+                                <h4>{{trans('lang.job')}}</h4><p>{{$user->title}}</p>
                             </li>
                             <li>
                                 <h4>{{trans('lang.email')}}</h4><p>{{$user->email}}</p>
